@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p0xidalle
-- 👀 I’m interested in ... become a software developer
+- 👀 I’m interested in ... becoming a software developer
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... various projects and lessons from various individuals
 - 📫 How to reach me ... instagram - cultured_jrdn
